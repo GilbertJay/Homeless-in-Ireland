@@ -47,6 +47,17 @@ mydata: Homelessness data
 Male +	Female= Homeless adults
 Ages 18-24 + Ages 25-44	+ Ages 45-64	+Ages 65 = Homeless adults
 PEA +	STA	+TEA+	Other = Homeless adults
+*
+Definitions
+PEA: Private Emergency Accommodation: this may include hotels, B&Bs and other residential 
+facilities that are used on an emergency basis. Supports are provided to services users on a visiting 
+supports basis. 
+
+STA: Supported Temporary Accommodation: accommodation, including family hubs, hostels, with 
+onsite professional support. 
+
+TEA:  Temporary Emergency Accommodation: emergency accommodation with no (or minimal) 
+support 
 
 mydata3: Residential Property Price Index
 % over 1,3,12 months: Percentage change in Property price over the previous month, previous 3 months, previous year
