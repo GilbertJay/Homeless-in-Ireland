@@ -1,5 +1,6 @@
 # Homeless-in-Ireland
 The data on Homelessness in Ireland was collected from gov.ie from 2016 to 2022. This is a projected created for the Real Time Data Analytics module from the Higher Diploma in Data Analytics  in DKIT.
+On this project was performed descriptive analysis, analysis of Homeless in Ireland using a time series model and predictions for 2003, hypothesis testing using Kruskal test and prescreptive analysis by crossing the homeless figures with house prices data and unemplyment data.
 
 Everything you need to know about the proje ct and the dataset:
 
