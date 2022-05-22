@@ -40,7 +40,20 @@ install.packages("packagename")               *usually the package and library n
 library(libraryname)
 
 * 
-Data User Guide:
+Data User Guide: 
+
+mydata: Homelessness data
 Male +	Female= Homeless adults
 Ages 18-24 + Ages 25-44	+ Ages 45-64	+Ages 65 = Homeless adults
 PEA +	STA	+TEA+	Other = Homeless adults
+
+mydata3: Residential Property Price Index
+% over 1,3,12 months: Percentage change in Property price over the previous month, previous 3 months, previous year
+Base Jan 2005 = 100: Use as base the property price index from January in 2005
+
+mydata4: Seasonally Adjusted Monthly Unemployment
+Unemployment_thousand: Unemployment in thousand 
+Unemployment_percentage_rate: Unemployment rate in percentage
+
+
+
