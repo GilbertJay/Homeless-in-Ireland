@@ -44,8 +44,3 @@ Data User Guide:
 Male +	Female= Homeless adults
 Ages 18-24 + Ages 25-44	+ Ages 45-64	+Ages 65 = Homeless adults
 PEA +	STA	+TEA+	Other = Homeless adults
-
-
-
-
-![image](https://user-images.githubusercontent.com/94246792/169697692-09eeeead-20c3-4216-af52-cb0df6c8bde4.png)
